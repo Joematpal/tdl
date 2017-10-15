@@ -1,4 +1,4 @@
 update:
 	git checkout master
 	git fetch upstream
-	git rebase fetch/master
+	git rebase upstream/master
