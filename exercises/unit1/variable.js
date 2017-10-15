@@ -3,6 +3,6 @@
  * 2: Separate your answers them with commas.
  */
 
- var primatives = '';
+ var primatives = 'null,bolean,undefined,number,string,symbol';
 
  module.exports = primatives
